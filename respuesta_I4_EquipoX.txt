@@ -7,3 +7,7 @@ F- No pudieron hacer el push ya que no tienen actualizado su repositorio local.
 G- La solucion es hacer un git pull de la rama TESTING, para luego poder hacer el push.
 H- Lo que sucede es que se duplican los <body/>  con la información agregada de cada integrante y se mantiene el mismo <head/> , del index.html.
 I- Habria que posicionarse en DESARROLLO (git checkout DESARROLLO) para luego hacer un merge con TESTING (git merge TESTING)
+Integrantes:
+Sullivan,Nathan
+Racioppi,Mauro
+Hernandez, Tomas
