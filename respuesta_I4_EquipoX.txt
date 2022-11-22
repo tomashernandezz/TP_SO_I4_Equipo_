@@ -1,0 +1,4 @@
+A- En el testing quedo el fondo de color BLUE
+B-En el desarrollo quedo el fondo de color YELLOW
+C- En el master quedó BLANCO, pero en el código quedaron GREEN, YELLOW y BLUE
+D- El favicon quedó el de BETA
